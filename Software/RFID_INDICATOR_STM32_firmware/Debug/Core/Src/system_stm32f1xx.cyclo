@@ -1,2 +1,3 @@
-../Core/Src/system_stm32f1xx.c:175:6:SystemInit	1
-../Core/Src/system_stm32f1xx.c:224:6:SystemCoreClockUpdate	7
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc21aa1f0bc950a04511b351cc2863928dd2f8f325e317a4db528269dadb6f58
+size 113

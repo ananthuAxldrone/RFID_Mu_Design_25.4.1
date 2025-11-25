@@ -1,4 +1,3 @@
-../Core/Src/Rfid.c:42:6:parse_structured_command	72	static
-../Core/Src/Rfid.c:146:6:HAL_UART_RxCpltCallback	16	static
-../Core/Src/Rfid.c:174:6:Rfid_Begin	16	static
-../Core/Src/Rfid.c:196:6:Rfid_Run	16	static
+version https://git-lfs.github.com/spec/v1
+oid sha256:f75e5da730a0f98b24c35f440496ee4ee5eaffd70d231570ba5afc689e34367b
+size 212

@@ -1,2 +1,3 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
-"J3","Conn_01x04_Pin","PinHeader_1x04_P2.00mm_Vertical_SMD_Pin1Left",171.545000,-94.910000,180.000000,bottom
+version https://git-lfs.github.com/spec/v1
+oid sha256:09f2d0b9abfabf3ef19f637900e6c5aeb551a50bbbe9b21d9986429620f12ccf
+size 144

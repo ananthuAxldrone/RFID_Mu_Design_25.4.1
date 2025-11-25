@@ -1,16 +1,3 @@
-.LP2985IM5-2.7_NOPB :1 ;Texas Instruments LP2985IM5-2.7/NOPB, Low Noise LDO Voltage Regulator, 350mA, 2.7 V 1%, 2.2  16 Vin, 5-Pin
-SOT95P280X145-5N
-*STM IC
-*NGS
-*PLB 1="IN" 2="GND" 3="ON/OFF" 4="BYPASS" 5="OUT"
-*MXP 5
-*DFN LP2985IM5-2.7_NOPB
-~!Mouser Part Number (926-2985IM5-2.7/NOPB)
-~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP2985IM5-27-NOPB?qs=7lkVKPoqpbaBU6JCbe3gTQ%3D%3D)
-~!Manufacturer_Name (Texas Instruments)
-~!Manufacturer_Part_Number (LP2985IM5-2.7/NOPB)
-~!Link Datasheet (http://www.ti.com/lit/gpn/lp2985-n)
-~!Height (1.45mm)
-~!3D_Model (LP2985IM5-2.7_NOPB)
-LP2985IM5-2.7_NOPB
-1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c209268302e9173210ea3ebb32ef19bc672b8a69e5b25701e6e48ffc9080e6e
+size 663

@@ -1,3 +1,3 @@
-1. There are no restrictions on the circuit board designs you make with our library components.
-2. You do not need to credit SamacSys in any way after using our Libraries.
-3. You will not distribute our models in any form useable as a PCB Library Component - except within your own company.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73a80f36cf69a7cfa596bbb56148de0d2ca8534ba2bae2031d95dab79235ef11
+size 291

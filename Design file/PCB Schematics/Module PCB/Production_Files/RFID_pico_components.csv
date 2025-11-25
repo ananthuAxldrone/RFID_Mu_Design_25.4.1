@@ -1,19 +1,3 @@
-Reference,Value,,Footprint,Qty,
-C1,100P,y,Capacitor_SMD:C_0402_1005Metric,1,https://robu.in/product/ac0402jrnpo9bn101-yageo-cap-ceramic-100pf-50v-c0g-5-pad-smd-0402-125c-automotive-aec-q200-t-r/
-C2,20P,y,Capacitor_SMD:C_0402_1005Metric,4,https://robu.in/product/grm1555c1h200ga01d-murata-cap-ceramic-20pf-50v-c0g-2-pad-smd-0402-125c-t-r/
-C6,1.0N,y,Capacitor_SMD:C_0402_1005Metric,1,https://robu.in/product/1-nf-50v-0402-smd-multi-layer-ceramic-capacitor-0402b102k500ct-walsin-pack-of-20/?gad_source=4&gclid=Cj0KCQiA57G5BhDUARIsACgCYnyEx9v9xZTq9YFuNs82ZOPOGy1HCaC_O1jCsGQMTZ3MsMC0oNZTd5MaAoluEALw_wcB
-C7,1.0U,y,Capacitor_SMD:C_0402_1005Metric,1,https://robu.in/product/1uf-capacitor-smdc-0402-pack-of-50/?gad_source=4&gclid=Cj0KCQiA57G5BhDUARIsACgCYnwrtomxDr_FUOZqQ2fv_NU89SqjCYh540M0_SywX5mddqL3YYf9gi4aAnLTEALw_wcB
-C8,10N,y,Capacitor_SMD:C_0402_1005Metric,2,https://robu.in/product/10nf-50v-capacitor-smdc-0402-pack-of-50/?gad_source=4&gclid=Cj0KCQiA57G5BhDUARIsACgCYnzXMu8_QCLuaCCtATXkm_VWHe1ejNgnAN1uNgz3nc_7KtLLoM0YpIgaAkGiEALw_wcB
-C9,4.7U,y,Capacitor_SMD:C_0402_1005Metric,1,https://robu.in/product/0402x475m100nt-fh-10v-4-7uf-x5r%C2%B120-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/?gad_source=4&gclid=Cj0KCQiA57G5BhDUARIsACgCYnyrSuoj2_a2BbN9-wQqj_Fb2USsKyNj7D05eb7ply89SqO8OTXRsE4aAvIAEALw_wcB
-C14,56P,,Capacitor_SMD:C_0402_1005Metric,2,https://robu.in/product/tcc0402cog560g500at-cctc-smt-ceramic-capacitors-0402-cog-560g56pf%c2%b12-0-rated-voltage50v-thickness0-50mm-tape/
-IC1,74LVC1G86SE-7,y,74LVC1G86SE-7:SOT65P210X110-5N,5,https://robu.in/product/74lvc1g86se-7-diodes-inc-74lvc1g86se-7-logic-ic-xor-exclusive-or-single-2-inputs-5-pins-sot-353-74lvc1g86/
-J1,MMCX-J-P-H-ST-EM1,y,MMCX-J-P-H-ST-EM1:SAMTEC_MMCX-J-P-H-ST-EM1,10,Ktron
-J4,U.FL-R-SMT_10_,y,U.FL-R-SMT_10_:HRS_U.FL-R-SMT_10_,10,https://www.ktron.in/?s=MMCX&post_type=product&v=c86ee0d9d7ed
-L1,3.9N,y,Inductor_SMD:L_0402_1005Metric,4,https://robu.in/product/mlg1005s3n9bt000-tdk-700ma-3-9nh-110m%CF%89-0402-inductors-smd-rohs/
-L2,150N,y,Inductor_SMD:L_0402_1005Metric,4,https://robu.in/product/lqg15hsr15j02d-murata-electronics-150ma-150nh-%C2%B15-2-99%CF%89-0402-inductors-smd-rohs/
-R1,1K,y,Inductor_SMD:L_0402_1005Metric,2,https://robu.in/product/1k-resistor-smdr-0402-pack-of-50/?gad_source=4&gclid=Cj0KCQiA57G5BhDUARIsACgCYnwgJFaduqG1KAxatjeaFlAgl39ykKOwi8drDYaLQ1uQHOIDLekL0KwaAuYMEALw_wcB
-R6,49.9K,y,Inductor_SMD:L_0402_1005Metric,2,https://robu.in/product/ac0402fr-0749k9l-yageo-res-thick-film-0402-49-9k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r-automotive-aec-q200/
-R8,100K,y,Inductor_SMD:L_0402_1005Metric,2,https://robu.in/product/rc0402fr-07100klyageo100-kohm-%C2%B11-0-063w-1-16w-chip-resistor-0402-1005-metric-moisture-resistant-thick-film/?gad_source=4&gclid=Cj0KCQiA57G5BhDUARIsACgCYnwZjjfXEHXsC4ceqmsCpBJrqUXRdre1sExSMQ0Yed0LwfrtD3BGofMaAsmDEALw_wcB
-U1,SKY13380-350LF,y,SKY13380:QFN50P300X300X80-17N-D,1,https://www.digikey.in/ordering/shoppingcart?lang=en&_gl=1*l31j3q*_up*MQ..&gclid=Cj0KCQiA57G5BhDUARIsACgCYnxYp7KV0gxau_F6nY3grEZA1ZmeDAIuLG26tlguk_1-OhMjUbnGrf0aAobmEALw_wcB
-U2,M7E-Pico,,M7e:M7e_pico,1,
-U3,LP2985IM5-2.7_NOPB,y,LP2985-2.7V:SOT95P280X145-5N,1,https://www.digikey.in/ordering/shoppingcart?lang=en&_gl=1*l31j3q*_up*MQ..&gclid=Cj0KCQiA57G5BhDUARIsACgCYnxYp7KV0gxau_F6nY3grEZA1ZmeDAIuLG26tlguk_1-OhMjUbnGrf0aAobmEALw_wcB
+version https://git-lfs.github.com/spec/v1
+oid sha256:0361f7d6d9b0c6b0d6e1a483e27afaef37949c733963b0ce27cbe50c3935022c
+size 3334

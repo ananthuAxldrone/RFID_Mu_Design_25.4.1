@@ -1,9 +1,3 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LP2985IM5-2.7_NOPB
-D Texas Instruments LP2985IM5-2.7/NOPB, Low Noise LDO Voltage Regulator, 350mA, 2.7 V 1%, 2.2  16 Vin, 5-Pin
-K
-F http://www.ti.com/lit/gpn/lp2985-n
-$ENDCMP
-#
-#End Doc Library
+version https://git-lfs.github.com/spec/v1
+oid sha256:eae6cf61e65149a2d8d2f169eee180ba28af2407f50d92a1fa14d5cae34acb95
+size 230

@@ -1,13 +1,3 @@
-(unit MM)
-
-(package "SKY13380-350LF"
-    (type UNDEF)
-    (uver 2)
-    (cuser "SamacSys")
-    (uuser "SamacSys")
-    (utime 2020-03-04-15:16:32)
-    (mountForm default
-        (footprintRef "QFN50P300X300X80-17N-D")
-        (spec "System")
-    )
-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc6a72847d86c388c07d1d80a7632caeca90d9ea22e0ac5379b2bc5750264b2
+size 248

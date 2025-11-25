@@ -1,13 +1,3 @@
-(unit MM)
-
-(package "LP2985IM5-2_7_NOPB"
-    (type UNDEF)
-    (uver 2)
-    (cuser "SamacSys")
-    (uuser "SamacSys")
-    (utime 2018-06-06-11:10:45)
-    (mountForm default
-        (footprintRef "SOT95P280X145-5N")
-        (spec "System")
-    )
-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:141fea1433b989777892fe931269cd2e39359cb7ea2fb60460b3839c1c404555
+size 246

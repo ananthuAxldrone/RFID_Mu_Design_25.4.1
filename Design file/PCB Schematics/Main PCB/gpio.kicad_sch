@@ -1,14 +1,3 @@
-(kicad_sch
-	(version 20231120)
-	(generator "eeschema")
-	(generator_version "8.0")
-	(uuid "ecc9200a-8bfe-47af-be6e-fa770d15e22c")
-	(paper "A3")
-	(title_block
-		(date "2024-10-24")
-		(rev "V1")
-		(company "Axldrone")
-		(comment 1 "Designed By Ananthu")
-	)
-	(lib_symbols)
-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:986fa21ecc9184db26121650a9f3c1ab3f288cfa49443cbfb957b0062b0d9be6
+size 271

@@ -1,16 +1,3 @@
-M48
-; DRILL file {KiCad 9.0.1-9.0.1-0~ubuntu22.04.1} date 2025-05-12T10:46:31+0530
-; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2025-05-12T10:46:31+05:30
-; #@! TF.GenerationSoftware,Kicad,Pcbnew,9.0.1-9.0.1-0~ubuntu22.04.1
-; #@! TF.FileFunction,NonPlated,1,4,NPTH
-FMAT,2
-METRIC
-; #@! TA.AperFunction,NonPlated,NPTH,ComponentDrill
-T1C2.700
-%
-G90
-G05
-T1
-X156.9Y-61.8
-M30
+version https://git-lfs.github.com/spec/v1
+oid sha256:a65f41492b3d9e275ab195bebb1a210d9cb876c70cb11d5afc3a162109f3dcdb
+size 390
