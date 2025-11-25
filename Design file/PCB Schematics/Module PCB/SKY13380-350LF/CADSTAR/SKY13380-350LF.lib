@@ -1,0 +1,16 @@
+.SKY13380-350LF :1 ;RF Switch ICs 20MHz-3.0GHz SP4T IL .45dB @ 2.0GHz
+QFN50P300X300X80-17N-D
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="VDD" 3="CTRL2" 4="CTRL1" 5="GND_2" 6="RF4" 7="GND_3" 8="RF3" 9="GND_4" 10="GND_5" 11="ANT" 12="GND_6" 13="RF1" 14="GND_7" 15="RF2" 16="N/C" 17="EP"
+*MXP 17
+*DFN SKY13380-350LF
+~!Mouser Part Number (873-SKY13380-350LF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SKY13380-350LF?qs=WMHGlxXAKT%2FCWqu6Atw2nA%3D%3D)
+~!Manufacturer_Name (Skyworks)
+~!Manufacturer_Part_Number (SKY13380-350LF)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SKY13380-350LF.pdf)
+~!Height (0.8mm)
+~!3D_Model (SKY13380-350LF)
+SKY13380-350LF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

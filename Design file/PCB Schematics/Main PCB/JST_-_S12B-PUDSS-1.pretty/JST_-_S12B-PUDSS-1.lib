@@ -1,0 +1,77 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# JST S12B-PUDSS-1
+#
+DEF S12B-PUDSS-1 J 0 0 Y Y 2 L N
+F0 "J" 0 300 50 H V L CNN 
+F1 "S12B-PUDSS-1" 0 400 50 H V L CNN 
+F2 "JST-S12B-PUDSS-1-*" 0 500 50 H I L CNN 
+F3 "https://www.jst-mfg.com/product/pdf/eng/ePUD.pdf" 0 600 50 H I L CNN 
+F4 "No" 0 700 50 H I L CNN "automotive"
+F5 "Conn" 0 800 50 H I L CNN "category"
+F6 "Tin,Copper" 0 900 50 H I L CNN "contact material"
+F7 "3A" 0 1000 50 H I L CNN "current rating"
+F8 "Connectors" 0 1100 50 H I L CNN "device class L1"
+F9 "Headers and Wire Housings" 0 1200 50 H I L CNN "device class L2"
+F10 "unset" 0 1300 50 H I L CNN "device class L3"
+F11 "CONN HEADER R/A 12POS 2MM" 0 1400 50 H I L CNN "digikey description"
+F12 "455-2487-ND" 0 1500 50 H I L CNN "digikey part number"
+F13 "8.55mm" 0 1600 50 H I L CNN "height"
+F14 "yes" 0 1700 50 H I L CNN "is connector"
+F15 "no" 0 1800 50 H I L CNN "is female"
+F16 "yes" 0 1900 50 H I L CNN "is male"
+F17 "Yes" 0 2000 50 H I L CNN "lead free"
+F18 "dc75e0323a9d8bbc" 0 2100 50 H I L CNN "library id"
+F19 "JST" 0 2200 50 H I L CNN "manufacturer"
+F20 "12" 0 2300 50 H I L CNN "number of contacts"
+F21 "2" 0 2400 50 H I L CNN "number of rows"
+F22 "HDR12" 0 2500 50 H I L CNN "package"
+F23 "2mm" 0 2600 50 H I L CNN "pitch"
+F24 "Yes" 0 2700 50 H I L CNN "rohs"
+F25 "+85°C" 0 2800 50 H I L CNN "temperature range high"
+F26 "-25°C" 0 2900 50 H I L CNN "temperature range low"
+F27 "250V" 0 3000 50 H I L CNN "voltage rating"
+DRAW
+X 1 1 -100 0 100 L 40 40 1 1 P 
+X 3 3 -100 -200 100 L 40 40 1 1 P 
+X 5 5 -100 -400 100 L 40 40 1 1 P 
+X 7 7 -100 -600 100 L 40 40 1 1 P 
+X 9 9 -100 -800 100 L 40 40 1 1 P 
+X 11 11 -100 -1000 100 L 40 40 1 1 P 
+S -500 200 -200 -1200 1 1 0 f
+S -400 20 -300 -20 1 1 0 F
+P 2 1 1 0 -320 0 -200 0 N
+S -400 -180 -300 -220 1 1 0 F
+P 2 1 1 0 -320 -200 -200 -200 N
+S -400 -380 -300 -420 1 1 0 F
+P 2 1 1 0 -320 -400 -200 -400 N
+S -400 -580 -300 -620 1 1 0 F
+P 2 1 1 0 -320 -600 -200 -600 N
+S -400 -780 -300 -820 1 1 0 F
+P 2 1 1 0 -320 -800 -200 -800 N
+S -400 -980 -300 -1020 1 1 0 F
+P 2 1 1 0 -320 -1000 -200 -1000 N
+X 2 2 -100 0 100 L 40 40 2 1 P 
+X 4 4 -100 -200 100 L 40 40 2 1 P 
+X 6 6 -100 -400 100 L 40 40 2 1 P 
+X 8 8 -100 -600 100 L 40 40 2 1 P 
+X 10 10 -100 -800 100 L 40 40 2 1 P 
+X 12 12 -100 -1000 100 L 40 40 2 1 P 
+S -500 200 -200 -1200 2 1 0 f
+S -400 20 -300 -20 2 1 0 F
+P 2 2 1 0 -320 0 -200 0 N
+S -400 -180 -300 -220 2 1 0 F
+P 2 2 1 0 -320 -200 -200 -200 N
+S -400 -380 -300 -420 2 1 0 F
+P 2 2 1 0 -320 -400 -200 -400 N
+S -400 -580 -300 -620 2 1 0 F
+P 2 2 1 0 -320 -600 -200 -600 N
+S -400 -780 -300 -820 2 1 0 F
+P 2 2 1 0 -320 -800 -200 -800 N
+S -400 -980 -300 -1020 2 1 0 F
+P 2 2 1 0 -320 -1000 -200 -1000 N
+ENDDRAW
+ENDDEF
+#
+# End Library

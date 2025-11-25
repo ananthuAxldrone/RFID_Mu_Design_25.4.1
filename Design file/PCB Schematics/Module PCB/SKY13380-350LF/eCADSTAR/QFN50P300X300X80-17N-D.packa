@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SKY13380-350LF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-04-15:16:32)
+    (mountForm default
+        (footprintRef "QFN50P300X300X80-17N-D")
+        (spec "System")
+    )
+)

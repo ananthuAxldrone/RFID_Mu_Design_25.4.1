@@ -1,0 +1,9 @@
+Manufacturer=Skyworks
+PartNumber=SKY13380-350LF
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=17
+Version=1.1
+Released=2020-03-04 15:16:32
+Downloaded=2024-10-27 15:47:25
+3D=Y

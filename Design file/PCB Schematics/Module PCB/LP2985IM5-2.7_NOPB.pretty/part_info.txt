@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LP2985IM5-2.7/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2021-04-10 08:53:31
+Downloaded=2024-10-22 05:06:46
+3D=Y

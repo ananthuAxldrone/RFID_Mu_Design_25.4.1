@@ -1,0 +1,101 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "AA2810ASES_J3" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (id 0) (at 3.556 -4.572 90.0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "AA2810ASES_J3" (id 1) (at 5.715 -4.572 90.0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "AA2810ASES_J3:AA2810ASESK" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Kingbright" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            Red 625nm LED Indication - Discrete 2.2V 2-SMD, J-Lead\n                        \n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "SMD-2 Kingbright" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/AA2810ASES/J3/Kingbright/view-part/?ref=snap" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "AA2810ASES/J3" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/AA2810ASES/J3/Kingbright/view-part/?ref=eda" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "AA2810ASES_J3_0_0"
+      (polyline
+        (pts (xy 1.27 0.0) (xy 0.0 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 -2.54) (xy -1.27 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 -2.54) (xy 0.0 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 -2.54) (xy -1.27 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 0.0) (xy 0.0 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 0.0) (xy -1.27 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 0.0) (xy 0.0 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.032 -0.762) (xy -3.429 -2.159)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.905 -1.905) (xy -3.302 -3.302)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts
+          (xy -3.429 -2.159)
+          (xy -3.048 -1.27)
+          (xy -2.54 -1.778)
+          (xy -3.429 -2.159)
+        )
+        (stroke (width 0.1524)) (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy -3.302 -3.302)
+          (xy -2.921 -2.413)
+          (xy -2.413 -2.921)
+          (xy -3.302 -3.302)
+        )
+        (stroke (width 0.1524)) (fill (type outline))
+      )
+      (pin passive line (at 0.0 -5.08 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "C"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 2.54 270.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

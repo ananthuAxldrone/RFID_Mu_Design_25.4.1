@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "M7e")(type "KiCad")(uri "${KIPRJMOD}/M7e_pico/M7e.pretty")(options "")(descr ""))
+)

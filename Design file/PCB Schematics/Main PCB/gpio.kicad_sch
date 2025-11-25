@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ecc9200a-8bfe-47af-be6e-fa770d15e22c")
+	(paper "A3")
+	(title_block
+		(date "2024-10-24")
+		(rev "V1")
+		(company "Axldrone")
+		(comment 1 "Designed By Ananthu")
+	)
+	(lib_symbols)
+)

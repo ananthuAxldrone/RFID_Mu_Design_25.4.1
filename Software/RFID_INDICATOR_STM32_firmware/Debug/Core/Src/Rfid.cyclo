@@ -1,0 +1,4 @@
+../Core/Src/Rfid.c:42:6:parse_structured_command	24
+../Core/Src/Rfid.c:146:6:HAL_UART_RxCpltCallback	3
+../Core/Src/Rfid.c:174:6:Rfid_Begin	2
+../Core/Src/Rfid.c:196:6:Rfid_Run	16

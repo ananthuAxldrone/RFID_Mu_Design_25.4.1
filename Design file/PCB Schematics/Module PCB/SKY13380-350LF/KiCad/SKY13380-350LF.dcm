@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKY13380-350LF
+D RF Switch ICs 20MHz-3.0GHz SP4T IL .45dB @ 2.0GHz
+K
+F https://componentsearchengine.com/Datasheets/1/SKY13380-350LF.pdf
+$ENDCMP
+#
+#End Doc Library
